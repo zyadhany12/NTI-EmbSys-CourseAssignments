@@ -5,7 +5,7 @@ int main(){
     char max = '0';
 
     printf("Write 7 characters: ");
-    scanf("%s",&arr);
+    scanf("%7s",&arr);
 
     for(int i = 0; i < 7; i++){
         if(arr[i] > max){
