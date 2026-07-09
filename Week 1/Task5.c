@@ -6,7 +6,7 @@ int main(){
     int repeat = 0;
 
     printf("Write 7 characters: ");
-    scanf(" %s",&arr);
+    scanf(" %7s",&arr);
 
     printf("What Character are you Searching for?  ");
     scanf(" %c",&target_char);
