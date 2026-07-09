@@ -16,7 +16,7 @@ int main()
     case 'c':
     case 'C':
         printf("Write 7 characters: ");
-        scanf("%s", &char_arr);
+        scanf("%7s", &char_arr);
         for (int i = 0; i < 7; i++)
         {
             char_temp[7 - i - 1] = char_arr[i];
