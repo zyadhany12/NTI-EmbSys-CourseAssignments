@@ -1,0 +1,10 @@
+1- U8
+2- S8
+3- U16
+4- S16
+5- U64
+6- S64
+7- U128
+8- S128
+9- S32
+10-D64 /* for double since long int is S64 */
